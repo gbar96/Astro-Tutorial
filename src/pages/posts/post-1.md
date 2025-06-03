@@ -1,6 +1,7 @@
 ---
-title: 'My first Blog Post'
-pubDate: 2025-06-02
+layout: ../../layouts/MarkdownPostLayout.astro
+title: 'My first Blog Post with Astro'
+pubDate: 06-02-2025
 description: 'This is the first post of my new Astro Blog.'
 author: 'Greg Bartel'
 image: 
@@ -9,13 +10,10 @@ image:
 tags: ["astro", "blogging", "learning in public"]
 ---
 
-# My first Blog Post
 
-Published on: 2025-06-02
+## Welcome to my _new blog_ about learning Astro! Here, I will share my learning journey as I Build a new website. 
 
-Welcome to my _new blog_ about learning Astro! Here, I will share my learning journey as I Build a new website. 
-
-## What I've accomplished
+### What I've accomplished
 
 1. **Installing Astro**: First, I created a new Astro project and set up my online accounts.
 

@@ -1,11 +1,12 @@
 ---
+layout: ../../layouts/MarkdownPostLayout.astro
 title: My Third Blog Post
 author: Greg Bartel
 description: "I had some challenges, but asking in the community really helped!"
 image:
     url: "https://docs.astro.build/assets/rays.webp"
     alt: "The Astro logo on a dark background with rainbow rays."
-pubDate: 2025-06-02
+pubDate: 06-02-2025
 tags: ["astro","learning in public","setbacks","community"]
 ---
 
